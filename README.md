@@ -1,6 +1,6 @@
 # 🏧 Python Console ATM System Simulator
 
-This project is a simple, text-based ATM simulation developed in **Python 3**. It is designed to demonstrate core programming concepts, including loops, conditional logic, functions, and the use of the `datetime` module for tracking transactions./
+This project is a simple, text-based ATM simulation developed in **Python 3**. It is designed to demonstrate core programming concepts, including loops, conditional logic, functions, and the use of the `datetime` module for tracking transactions.
 
 ## ✨ Features
 
