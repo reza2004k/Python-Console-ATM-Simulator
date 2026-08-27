@@ -1,8 +1,8 @@
-# 🏧 Python Console ATM System Simulator
+# Python Console ATM System Simulator
 
 This project is a simple, text-based ATM simulation developed in **Python 3**. It is designed to demonstrate core programming concepts, including loops, conditional logic, functions, and the use of the `datetime` module for tracking transactions.
 
-## ✨ Features
+## Features
 
 * **Fixed Authentication:** Requires a hardcoded password (e.g., `5604` based on the code) for access. The card is blocked after **three failed attempts**.
 * **Basic Transactions:** Supports the three core ATM services:
@@ -12,13 +12,13 @@ This project is a simple, text-based ATM simulation developed in **Python 3**. I
 * **Transaction Receipt:** Outputs a detailed summary of the transaction, including the **current date and time**.
 * **Interactive Menu:** A loop runs the service menu until the user chooses to quit or retrieve their card.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Language:** Python 3
 * **Libraries:** `datetime` (for date/time tracking)
 * **Interface:** Console/Terminal
 
-## 🚀 Getting Started
+## Getting Started
 
 To run the ATM system on your local machine, follow these steps.
 
@@ -51,6 +51,6 @@ To run the ATM system on your local machine, follow these steps.
 3.  Enter the corresponding number for the service you require.
 4.  After each transaction, you will be given the option to take your card or choose another service.
 
-> **⚠️ Note:** This is a simulation. The balance is not permanently saved and resets every time the script is executed. The account starts with a fixed balance (e.g., $500).
+> **Note:** This is a simulation. The balance is not permanently saved and resets every time the script is executed. The account starts with a fixed balance (e.g., $500).
 
 ---
